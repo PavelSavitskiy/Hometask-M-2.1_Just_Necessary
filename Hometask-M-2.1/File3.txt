@@ -1,0 +1,1 @@
+First user edited the same file3 to show resolving thr conflict
