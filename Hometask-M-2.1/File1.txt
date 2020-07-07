@@ -1,2 +1,3 @@
 Hello my dear friends!
 The first line for rebase
+The second line for rebase
