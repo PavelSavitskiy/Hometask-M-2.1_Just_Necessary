@@ -2,3 +2,4 @@ Hello my dear friends!
 The first line for rebase
 The second line for rebase
 The line for cherry-picking
+The line for revering
